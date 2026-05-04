@@ -1,0 +1,57 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Helper function to check if user is authenticated
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+    
+    // Helper function to check if user owns the document
+    function isOwner(userId) {
+      return isAuthenticated() && request.auth.uid == userId;
+    }
+    
+    // Users collection - Private (owned by user)
+    match /users/{userId} {
+      allow read: if isOwner(userId);
+      allow create: if isAuthenticated() && request.auth.uid == userId && request.resource.data.id == userId;
+      allow update, delete: if isOwner(userId);
+    }
+    
+    // Daily actions - Private (owned by user)
+    match /daily_actions/{userId}/actions/{actionId} {
+      allow read, write: if isOwner(userId);
+    }
+    
+    // Badges - Private (owned by user)
+    match /badges/{userId}/unlocked/{badgeId} {
+      allow read, write: if isOwner(userId);
+    }
+    
+    // Streaks - Private (owned by user)
+    match /streaks/{userId}/user_streaks/{streakId} {
+      allow read, write: if isOwner(userId);
+    }
+    
+    // Reminders - Private (owned by user)
+    match /reminders/{userId}/user_reminders/{reminderId} {
+      allow read, write: if isOwner(userId);
+    }
+    
+    // Quran reading data - Private (owned by user)
+    match /quran_reading/{userId} {
+      allow read, write: if isOwner(userId);
+    }
+    
+    // Prayer completion data - Private (owned by user)
+    match /prayer_completion/{userId}/dates/{dateId} {
+      allow read, write: if isOwner(userId);
+    }
+    
+    // Leaderboard - Public read, only system can write
+    match /leaderboard/{userId} {
+      allow read: if isAuthenticated();
+      allow write: if isOwner(userId);
+    }
+  }
+}

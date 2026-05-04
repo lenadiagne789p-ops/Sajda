@@ -1,0 +1,62 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sajda.app">
+    
+    <!-- Permissions pour les achats in-app -->
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    
+    <!-- Permissions pour la géolocalisation -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    
+    <!-- Permissions pour les notifications -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
+    
+    <!-- Permissions pour l'audio -->
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    
+    <application
+        android:label="Sajda"
+        android:name="${applicationName}"
+        android:icon="@mipmap/ic_launcher">
+        
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:launchMode="singleTop"
+            android:taskAffinity=""
+            android:theme="@style/LaunchTheme"
+            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+            android:hardwareAccelerated="true"
+            android:windowSoftInputMode="adjustResize">
+            
+            <!-- Thème normal Flutter -->
+            <meta-data
+                android:name="io.flutter.embedding.android.NormalTheme"
+                android:resource="@style/NormalTheme" />
+                
+            <!-- Intent principal de l'app -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        
+        <!-- Meta-data Flutter obligatoire -->
+        <meta-data
+            android:name="flutterEmbedding"
+            android:value="2" />
+            
+    </application>
+    
+    <!-- Queries pour compatibilité texte (Flutter requis) -->
+    <queries>
+        <intent>
+            <action android:name="android.intent.action.PROCESS_TEXT"/>
+            <data android:mimeType="text/plain"/>
+        </intent>
+    </queries>
+</manifest>

@@ -1,0 +1,47 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "leaderboard",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "totalHassanat",
+          "order": "DESCENDING"
+        },
+        {
+          "fieldPath": "name",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "actions",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "date",
+          "order": "DESCENDING"
+        },
+        {
+          "fieldPath": "isCompleted",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "user_streaks",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "isActive",
+          "order": "DESCENDING"
+        },
+        {
+          "fieldPath": "currentStreak",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}
