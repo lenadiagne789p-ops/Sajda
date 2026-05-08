@@ -1,0 +1,568 @@
+{
+  "categories": [
+    {
+      "id": "mosquee",
+      "title": "Mosquée",
+      "subtitle": "Entrer, sortir, et prières liées à la mosquée",
+      "items": [
+        {
+          "id": "mosq_enter",
+          "arabic": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+          "transliteration": "Allāhumma iftaḥ lī abwāba raḥmatik",
+          "translation": "Ô Allah, ouvre‑moi les portes de Ta miséricorde.",
+          "repetitions": 1,
+          "source": "Sahih Muslim",
+          "reference": "À l'entrée de la mosquée",
+          "benefit": "Prépare le cœur à la miséricorde et à la concentration.",
+          "reward": "Accès aux miséricordes d’Allah dans Sa maison"
+        },
+        {
+          "id": "mosq_exit",
+          "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+          "transliteration": "Allāhumma innī asʾaluka min faḍlik",
+          "translation": "Ô Allah, je Te demande de Ta grâce.",
+          "repetitions": 1,
+          "source": "Sunan Abi Dawud",
+          "reference": "À la sortie de la mosquée",
+          "benefit": "Sollicite les faveurs divines après l’adoration.",
+          "reward": "Grâce et bénédiction pour les activités quotidiennes"
+        },
+        {
+          "id": "mosq_adab",
+          "arabic": "بِسْمِ اللَّهِ وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُولِ اللَّهِ",
+          "transliteration": "Bismi‑llāh, waṣ‑ṣalātu wa‑s‑salāmu ʿalā Rasūli‑llāh",
+          "translation": "Au nom d’Allah. Prière et salutations sur le Messager d’Allah.",
+          "repetitions": 1,
+          "source": "Adab de la mosquée",
+          "reference": "Formule générale en entrant",
+          "benefit": "Rappelle l’intention sincère et la sunna.",
+          "reward": "Salutation au Prophète ﷺ et bénédictions"
+        }
+      ]
+    },
+    {
+      "id": "sommeil",
+      "title": "Sommeil",
+      "subtitle": "Avant de dormir, au réveil, protection nocturne",
+      "items": [
+        {
+          "id": "sleep_before",
+          "arabic": "بِاسْمِكَ رَبِّي وَضَعْتُ جَنْبِي وَبِكَ أَرْفَعُهُ...",
+          "transliteration": "Bismika rabbī waḍaʿtu janbī wa bika arfaʿuh…",
+          "translation": "En Ton nom, mon Seigneur, je pose mon flanc, et par Toi je le relève…",
+          "repetitions": 1,
+          "source": "Sahih Al‑Bukhari",
+          "reference": "Avant de dormir",
+          "benefit": "Confie l’âme à Allah et apaise les soucis.",
+          "reward": "Protection et sommeil paisible"
+        },
+        {
+          "id": "sleep_three_quls",
+          "arabic": "قراءة الإخلاص والفلق والناس ثلاث مرات",
+          "transliteration": "Lire Al‑Ikhlāṣ, Al‑Falaq, An‑Nās (3×)",
+          "translation": "Lire “Les trois protectrices” trois fois avant de dormir.",
+          "repetitions": 1,
+          "source": "Sahih Al‑Bukhari",
+          "reference": "Avant de dormir",
+          "benefit": "Bouclier contre le mauvais œil et les nuisances nocturnes.",
+          "reward": "Protection globale jusqu’au matin"
+        },
+        {
+          "id": "wake_up",
+          "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+          "transliteration": "Al‑ḥamdu lillāhi alladhī aḥyānā baʿda mā amātanā wa ilayhi an‑nushūr",
+          "translation": "Louange à Allah qui nous a redonnés la vie après nous avoir fait mourir, et c’est vers Lui que se fera la résurrection.",
+          "repetitions": 1,
+          "source": "Sahih Al‑Bukhari",
+          "reference": "Au réveil",
+          "benefit": "Gratitude matinale et conscience de l’au‑delà.",
+          "reward": "Bénédiction du début de journée"
+        }
+      ]
+    },
+    {
+      "id": "repas",
+      "title": "Repas",
+      "subtitle": "Avant et après manger",
+      "items": [
+        {
+          "id": "food_before",
+          "arabic": "بِسْمِ اللَّهِ",
+          "transliteration": "Bismi‑llāh",
+          "translation": "Au nom d’Allah.",
+          "repetitions": 1,
+          "source": "Sunan Abi Dawud",
+          "reference": "Au début du repas",
+          "benefit": "Allonge la baraka du repas et éloigne le diable.",
+          "reward": "Bénédictions dans la nourriture"
+        },
+        {
+          "id": "food_after",
+          "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هَذَا وَرَزَقَنِيهِ...",
+          "transliteration": "Al‑ḥamdu lillāhi alladhī aṭʿamanī hādhā wa razaqanīh…",
+          "translation": "Louange à Allah qui m’a nourri de cela et me l’a accordé comme subsistance…",
+          "repetitions": 1,
+          "source": "Sunan At‑Tirmidhi",
+          "reference": "Après le repas",
+          "benefit": "Remercie pour la subsistance et attire davantage de bien.",
+          "reward": "Gratitude récompensée"
+        }
+      ]
+    },
+    {
+      "id": "voyage",
+      "title": "Voyage",
+      "subtitle": "Sortie, montée en véhicule, route",
+      "items": [
+        {
+          "id": "travel_ride",
+          "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ...",
+          "transliteration": "Subḥāna alladhī sakh’khara lanā hādhā wa mā kunnā lahu muq’rinīn…",
+          "translation": "Gloire à Celui qui nous a soumis ceci, alors que nous n’étions pas capables de le maîtriser…",
+          "repetitions": 1,
+          "source": "Sunan At‑Tirmidhi",
+          "reference": "En montant en selle/véhicule",
+          "benefit": "Rappelle la faveur divine dans les moyens de transport.",
+          "reward": "Sécurité et gratitude en voyage"
+        },
+        {
+          "id": "travel_depart",
+          "arabic": "اللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى...",
+          "transliteration": "Allāhumma innā nasʾaluka fī safarinā hādhā al‑birra wa at‑taqwā…",
+          "translation": "Ô Allah, nous Te demandons dans ce voyage la piété et la crainte d’Allah…",
+          "repetitions": 1,
+          "source": "Sahih Muslim",
+          "reference": "Au départ en voyage",
+          "benefit": "Demande de droiture, protection et facilité en route.",
+          "reward": "Voyage béni et protégé"
+        }
+      ]
+    },
+    {
+      "id": "marche",
+      "title": "Marché",
+      "subtitle": "Formule au marché",
+      "items": [
+        {
+          "id": "market_formula",
+          "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ...",
+          "transliteration": "Lā ilāha illā Allāhu waḥdahu lā sharīka lah…",
+          "translation": "Nulle divinité autre qu’Allah, Seul sans associé…",
+          "repetitions": 1,
+          "source": "Al‑Hakim",
+          "reference": "En entrant au marché",
+          "benefit": "Récompense abondante et protection contre la distraction.",
+          "reward": "Multiplication des hassanāt"
+        }
+      ]
+    },
+    {
+      "id": "colere",
+      "title": "Colère",
+      "subtitle": "Se maîtriser et chercher refuge",
+      "items": [
+        {
+          "id": "anger_refuge",
+          "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+          "transliteration": "Aʿūdhu billāhi mina ash‑shayṭāni ar‑rajīm",
+          "translation": "Je cherche refuge auprès d’Allah contre Satan le banni.",
+          "repetitions": 1,
+          "source": "Sahih Al‑Bukhari",
+          "reference": "Quand la colère monte",
+          "benefit": "Éteint la colère et coupe les insinuations du diable.",
+          "reward": "Apaisement immédiat"
+        }
+      ]
+    },
+    {
+      "id": "anxiete",
+      "title": "Peur & Anxiété",
+      "subtitle": "Tristesse, angoisse et difficultés",
+      "items": [
+        {
+          "id": "anxiety_dua",
+          "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ...",
+          "transliteration": "Allāhumma innī aʿūdhu bika mina al‑hammi wal‑ḥazan…",
+          "translation": "Ô Allah, je cherche refuge auprès de Toi contre l’angoisse et la tristesse…",
+          "repetitions": 1,
+          "source": "Sahih Al‑Bukhari",
+          "reference": "Contre l’angoisse et la tristesse",
+          "benefit": "Allège les fardeaux du cœur et redonne de la force.",
+          "reward": "Soutien divin et sérénité"
+        }
+      ]
+    },
+    {
+      "id": "istikhara",
+      "title": "Istikhāra (Consultation)",
+      "subtitle": "Invocation de choix et de guidage",
+      "items": [
+        {
+          "id": "istikhara_text",
+          "arabic": "اللَّهُمَّ إِنِّي أَسْتَخِيرُكَ بِعِلْمِكَ...",
+          "transliteration": "Allāhumma innī astakhīruka biʿilmik…",
+          "translation": "Ô Allah, je Te consulte par Ta science… (texte complet de l’istikhāra)",
+          "repetitions": 1,
+          "source": "Sahih Al‑Bukhari",
+          "reference": "Après deux unités de prière de consultation",
+          "benefit": "Remet la décision à Allah avec confiance.",
+          "reward": "Choix béni et facilité"
+        }
+      ]
+    },
+    {
+      "id": "protection_generale",
+      "title": "Protection générale",
+      "subtitle": "Contre tout mal (ruqyah)",
+      "items": [
+        {
+          "id": "prot_kalimat_tammat_json",
+          "arabic": "أَعُوذُ بِكَلِمَاتِ اللّٰهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+          "transliteration": "Aʿūdhu bikalimāti Allāhi at‑tāmmāti min sharri mā khalaq",
+          "translation": "Je cherche refuge auprès des paroles parfaites d’Allah contre le mal de ce qu’Il a créé.",
+          "repetitions": 3,
+          "source": "Sahih Muslim",
+          "reference": "Matin/soir, lieu nouveau",
+          "benefit": "Bouclier global contre les maux.",
+          "reward": "Protection étendue"
+        },
+        {
+          "id": "prot_bismillah_noharm_json",
+          "arabic": "بِسْمِ اللّٰهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ...",
+          "transliteration": "Bismi‑llāhi alladhī lā yaḍurru maʿa‑smihi shayʾ…",
+          "translation": "Au nom d’Allah, avec le Nom duquel rien ne peut nuire…",
+          "repetitions": 3,
+          "source": "Sunan Abi Dawud",
+          "reference": "Matin/soir",
+          "benefit": "Assurance quotidienne contre les nuisances.",
+          "reward": "Préservation divine"
+        }
+      ]
+    },
+    {
+      "id": "mariage",
+      "title": "Mariage",
+      "subtitle": "Trouver, conclure et bénédictions du couple",
+      "items": [
+        {
+          "id": "marriage_spouse_righteous",
+          "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+          "transliteration": "Rabbana hab lanā min azwājinā wa dhurriyyātinā qurrata aʿyunin wa‑jʿalnā lil‑muttaqīna imāmā",
+          "translation": "Seigneur, fais que nos épouses et nos descendants soient une joie pour nos yeux et fais de nous des guides pour les pieux.",
+          "repetitions": 1,
+          "source": "Coran 25:74",
+          "reference": "Invocation pour le foyer et la descendance",
+          "benefit": "Harmonie conjugale et piété familiale.",
+          "reward": "Baraka dans le foyer"
+        },
+        {
+          "id": "marriage_new_spouse_dua",
+          "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا وَخَيْرَ مَا جَبَلْتَهَا عَلَيْهِ، وَأَعُوذُ بِكَ مِنْ شَرِّهَا وَشَرِّ مَا جَبَلْتَهَا عَلَيْهِ",
+          "transliteration": "Allāhumma innī asʾaluka khayrahā wa khayra mā jabaltahā ʿalayh, wa aʿūdhu bika min sharrihā wa sharri mā jabaltahā ʿalayh",
+          "translation": "Ô Allah, je Te demande son bien et le bien de la nature que Tu lui as donnée, et je cherche refuge auprès de Toi contre son mal et le mal de la nature que Tu lui as donnée.",
+          "repetitions": 1,
+          "source": "Sunan Abi Dawud",
+          "reference": "Lors du mariage / première rencontre",
+          "benefit": "Bénédiction et protection du couple.",
+          "reward": "Bien et quiétude dans le foyer"
+        }
+      ]
+    },
+    {
+      "id": "etudes",
+      "title": "Études & Savoir",
+      "subtitle": "Apprentissage, mémorisation, examens",
+      "items": [
+        {
+          "id": "study_increase_knowledge",
+          "arabic": "رَّبِّ زِدْنِي عِلْمًا",
+          "transliteration": "Rabbī zidnī ʿilmā",
+          "translation": "Seigneur, augmente‑moi en science.",
+          "repetitions": 1,
+          "source": "Coran 20:114",
+          "reference": "Demande d’augmentation du savoir",
+          "benefit": "Croissance continue du savoir bénéfique.",
+          "reward": "Ouverture de la compréhension"
+        },
+        {
+          "id": "study_expand_chest",
+          "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي، وَيَسِّرْ لِي أَمْرِي، وَاحْلُلْ عُقْدَةً مِنْ لِسَانِي، يَفْقَهُوا قَوْلِي",
+          "transliteration": "Rabbī-shraḥ lī ṣadrī, wa yassir lī amrī, wa‑hlul ʿuqdatan min lisānī, yafqahū qawlī",
+          "translation": "Seigneur, ouvre ma poitrine, facilite ma tâche, délie un nœud en ma langue afin qu’ils comprennent mes paroles.",
+          "repetitions": 1,
+          "source": "Coran 20:25‑28",
+          "reference": "Avant un exposé, un examen ou une prise de parole",
+          "benefit": "Aisance à parler et clarté d’esprit.",
+          "reward": "Succès et facilité par la permission d’Allah"
+        },
+        {
+          "id": "study_beneficial_knowledge",
+          "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلًا مُتَقَبَّلًا",
+          "transliteration": "Allāhumma innī asʾaluka ʿilman nāfiʿā, wa rizqan ṭayyibā, wa ʿamalan mutaqabbalā",
+          "translation": "Ô Allah, je Te demande un savoir utile, une subsistance licite et des œuvres acceptées.",
+          "repetitions": 1,
+          "source": "Sunan Ibn Mâjah",
+          "reference": "À dire le matin (après Fajr)",
+          "benefit": "Savoir profitable relié à la baraka matérielle et à l’acceptation des œuvres.",
+          "reward": "Baraka dans l’apprentissage et la pratique"
+        }
+      ]
+    },
+    {
+      "id": "difficultes",
+      "title": "Contre les difficultés",
+      "subtitle": "Facilitation et secours",
+      "items": [
+        {
+          "id": "distress_yunus",
+          "arabic": "لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+          "transliteration": "Lā ilāha illā anta, subḥānaka, innī kuntu mina aẓ‑ẓālimīn",
+          "translation": "Nulle divinité en dehors de Toi, gloire à Toi! J’ai été certes du nombre des injustes.",
+          "repetitions": 1,
+          "source": "Coran 21:87",
+          "reference": "Invocation de Yūnus (Jonas) en détresse",
+          "benefit": "Secours rapide dans l’épreuve et pardon.",
+          "reward": "Délivrance par la permission d’Allah"
+        },
+        {
+          "id": "distress_hasbunallah",
+          "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+          "transliteration": "Ḥasbunallāhu wa niʿma al‑wakīl",
+          "translation": "Allah nous suffit, Il est le Meilleur Garant.",
+          "repetitions": 1,
+          "source": "Coran 3:173",
+          "reference": "Quand on fait face à l’adversité",
+          "benefit": "Renforce le tawakkul et apaise le cœur.",
+          "reward": "Protection et réconfort"
+        },
+        {
+          "id": "distress_easy",
+          "arabic": "اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا، وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلًا",
+          "transliteration": "Allāhumma lā sahlā illā mā jaʿaltahu sahlā, wa anta tajʿalu al‑ḥazna idhā shiʾta sahlā",
+          "translation": "Ô Allah, il n’y a de facilité que ce que Tu facilites, et Tu rends la difficulté, si Tu le veux, facile.",
+          "repetitions": 1,
+          "source": "Conseil des savants",
+          "reference": "Quand une tâche paraît difficile",
+          "benefit": "Demande de facilitation dans l’effort et la compréhension.",
+          "reward": "Allègement et réussite"
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business & Subsistance",
+      "subtitle": "Baraka, halal, sortie de dettes",
+      "items": [
+        {
+          "id": "rizq_tayyib",
+          "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ رِزْقًا طَيِّبًا، وَعِلْمًا نَافِعًا، وَعَمَلًا مُتَقَبَّلًا",
+          "transliteration": "Allāhumma innī asʾaluka rizqan ṭayyibā, wa ʿilman nāfiʿā, wa ʿamalan mutaqabbalā",
+          "translation": "Ô Allah, je Te demande une subsistance licite, un savoir utile et des œuvres acceptées.",
+          "repetitions": 1,
+          "source": "Sunan Ibn Mâjah",
+          "reference": "Au début de journée (après Fajr)",
+          "benefit": "Baraka dans les revenus, alignement du savoir et de l’action.",
+          "reward": "Abondance licite et acceptation"
+        },
+        {
+          "id": "provision_musa",
+          "arabic": "رَبِّ إِنِّي لِمَا أَنْزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
+          "transliteration": "Rabbī innī limā anzalta ilayya min khayrin faqīr",
+          "translation": "Seigneur, j’ai grand besoin du bien que Tu feras descendre vers moi.",
+          "repetitions": 1,
+          "source": "Coran 28:24",
+          "reference": "Demande de subsistance et d’opportunités",
+          "benefit": "Attire une aide et une subsistance bienfaisantes.",
+          "reward": "Ouvertures et facilités"
+        },
+        {
+          "id": "halal_over_haram",
+          "arabic": "اللَّهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ، وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+          "transliteration": "Allāhumma kfinī bi‑ḥalālika ʿan ḥarāmik, wa aghninī bi‑faḍlik ʿamman siwāk",
+          "translation": "Ô Allah, suffis‑moi par le licite contre l’illicite et enrichis‑moi par Ta grâce de tout autre que Toi.",
+          "repetitions": 1,
+          "source": "Sunan At‑Tirmidhi",
+          "reference": "Pour la pureté des revenus",
+          "benefit": "Préservation du halal et éloignement du besoin auprès des gens.",
+          "reward": "Richesse du cœur et baraka"
+        },
+        {
+          "id": "debt_relief",
+          "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَأَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ، وَأَعُوذُ بِكَ مِنَ الْجُبْنِ وَالْبُخْلِ، وَأَعُوذُ بِكَ مِنْ غَلَبَةِ الدَّيْنِ وَقَهْرِ الرِّجَالِ",
+          "transliteration": "Allāhumma innī aʿūdhu bika mina al‑hammi wal‑ḥazan, wa aʿūdhu bika mina al‑ʿajzi wal‑kasal, wa aʿūdhu bika mina al‑jubni wal‑bukhl, wa aʿūdhu bika min ghalabati ad‑dayni wa qahri ar‑rijāl",
+          "translation": "Ô Allah, je cherche refuge auprès de Toi contre l’angoisse et la tristesse, contre l’incapacité et la paresse, contre la lâcheté et l’avarice, et contre l’écrasement par les dettes et l’oppression des hommes.",
+          "repetitions": 1,
+          "source": "Sahih Al‑Bukhari",
+          "reference": "Contre la dette et l’oppression",
+          "benefit": "Soulage des dettes et des pressions sociales.",
+          "reward": "Allègement et délivrance"
+        }
+      ]
+    },
+    {
+      "id": "sortir_problemes",
+      "title": "Sortir de tous problèmes",
+      "subtitle": "Détresse, impasses et secours global",
+      "items": [
+        {
+          "id": "hasbiyallahu_129",
+          "arabic": "حَسْبِيَ اللَّهُ لَا إِلَهَ إِلَّا هُوَ، عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+          "transliteration": "Ḥasbiyallāhu lā ilāha illā huwa, ʿalayhi tawakkaltu wa huwa rabbu al‑ʿarshi al‑ʿaẓīm",
+          "translation": "Allah me suffit, nulle divinité autre que Lui; en Lui je place ma confiance, et Il est le Seigneur du Trône immense.",
+          "repetitions": 1,
+          "source": "Coran 9:129",
+          "reference": "À répéter en cas de blocage et d’angoisse",
+          "benefit": "Apaise, renforce la confiance et ouvre des issues.",
+          "reward": "Soutien et protection divine"
+        },
+        {
+          "id": "la_hawla_treasure",
+          "arabic": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللّٰهِ",
+          "transliteration": "Lā ḥawla wa lā quwwata illā bi‑llāh",
+          "translation": "Il n’y a de force ni de puissance qu’en Allah.",
+          "repetitions": 3,
+          "source": "Sahih Al‑Bukhari",
+          "reference": "Un des trésors du Paradis",
+          "benefit": "Détachement des causes et reliance totale à Allah.",
+          "reward": "Récompense immense et secours"
+        },
+        {
+          "id": "rabbana_good_in_both",
+          "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+          "transliteration": "Rabbana ātinā fī ad‑dunyā ḥasanah, wa fī al‑ākhirati ḥasanah, wa qinā ʿadhāba an‑nār",
+          "translation": "Seigneur, accorde‑nous une belle part ici‑bas, une belle part dans l’au‑delà, et protège‑nous du châtiment du Feu.",
+          "repetitions": 1,
+          "source": "Coran 2:201",
+          "reference": "Invocation globale pour tout bien",
+          "benefit": "Couvre les besoins d’ici‑bas et de l’au‑delà.",
+          "reward": "Bien général et protection"
+        }
+      ]
+    }
+    ,
+    {
+      "id": "istighfar",
+      "title": "Istighfar — Demande de pardon",
+      "subtitle": "Implorer le pardon et l'effacement des péchés",
+      "items": [
+        {
+          "id": "sayyid_al_istighfar",
+          "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي، فَاغْفِرْ لِي، فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+          "transliteration": "Allāhumma anta rabbī, lā ilāha illā anta, khalaqtanī wa anā ʿabduka, wa anā ʿalā ʿahdika wa waʿdika mā is’taṭaʿtu, aʿūdhu bika min sharri mā ṣanaʿtu, abūʾu laka biniʿmatika ʿalayya, wa abūʾu bidhambī, faghfir lī fa‑innahu lā yaghfiru adh‑dhunūba illā anta",
+          "translation": "Ô Allah, Tu es mon Seigneur, nulle divinité autre que Toi. Tu m’as créé et je suis Ton serviteur; je m’efforce de tenir Ton pacte et Ta promesse. Je cherche refuge auprès de Toi contre le mal que j’ai commis. Je reconnais Ta grâce envers moi et je reconnais mon péché; pardonne‑moi, car nul autre que Toi ne pardonne les péchés.",
+          "repetitions": 1,
+          "source": "Sahih Al‑Bukhari",
+          "reference": "Maître des demandes de pardon (matin/soir)",
+          "benefit": "Le meilleur dhikr pour implorer le pardon et la miséricorde.",
+          "reward": "Pardon et protection si récité avec conviction"
+        },
+        {
+          "id": "astaghfirullah_wa_atubu",
+          "arabic": "أَسْتَغْفِرُ اللّٰهَ وَأَتُوبُ إِلَيْهِ",
+          "transliteration": "Astaghfiru‑llāha wa atūbu ilayh",
+          "translation": "Je demande pardon à Allah et je me repens auprès de Lui.",
+          "repetitions": 100,
+          "source": "Sahih Muslim",
+          "reference": "Le Prophète ﷺ demandait pardon plus de 70‑100 fois par jour",
+          "benefit": "Purifie le cœur et efface les fautes récurrentes.",
+          "reward": "Élévation et expiation des péchés"
+        },
+        {
+          "id": "astaghfirullah_al_azim_hayy_qayyum",
+          "arabic": "أَسْتَغْفِرُ اللّٰهَ الْعَظِيمَ الَّذِي لَا إِلٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ وَأَتُوبُ إِلَيْهِ",
+          "transliteration": "Astaghfiru‑llāha al‑ʿaẓīma alladhī lā ilāha illā huwa al‑ḥayyu al‑qayyūmu wa atūbu ilayh",
+          "translation": "Je demande pardon à Allah, le Sublime; nul dieu en dehors de Lui, le Vivant, le Subsistant, et je me repens auprès de Lui.",
+          "repetitions": 1,
+          "source": "Sunan At‑Tirmidhi",
+          "reference": "Formule d’istighfār méritoire",
+          "benefit": "Grand mérite et promesse de pardon par la grâce d’Allah.",
+          "reward": "Pardon des fautes, même grandes"
+        },
+        {
+          "id": "rabbighfir_li_tub_alayya",
+          "arabic": "رَبِّ اغْفِرْ لِي وَتُبْ عَلَيَّ إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ",
+          "transliteration": "Rabbī ighfir lī wa tub ʿalayya, innaka anta at‑tawwābu ar‑raḥīm",
+          "translation": "Seigneur, pardonne‑moi et accepte mon repentir. Tu es, certes, Celui qui accueille le repentir, le Très Miséricordieux.",
+          "repetitions": 3,
+          "source": "Sunan At‑Tirmidhi",
+          "reference": "Après les prières et en tout temps",
+          "benefit": "Repentir renouvelé et douceur de la miséricorde.",
+          "reward": "Pardon et proximité d’Allah"
+        },
+        {
+          "id": "allahumma_ighfir_li_khatiati",
+          "arabic": "اللَّهُمَّ اغْفِرْ لِي خَطِيئَتِي وَجَهْلِي، وَإِسْرَافِي فِي أَمْرِي كُلِّهِ، وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّي. اللَّهُمَّ اغْفِرْ لِي جِدِّي وَهَزْلِي، وَخَطَئِي وَعَمْدِي، وَكُلُّ ذٰلِكَ عِنْدِي",
+          "transliteration": "Allāhumma ighfir lī khaṭīʾatī wa jahlī, wa isrāfī fī amrī kullih, wa mā anta aʿlamu bihi minnī. Allāhumma ighfir lī jiddī wa hazlī, wa khaṭaʾī wa ʿamdī, wa kullu dhālika ʿindī",
+          "translation": "Ô Allah, pardonne‑moi mes fautes et mon ignorance, mes excès en toute chose, et ce dont Tu sais mieux que moi. Ô Allah, pardonne‑moi mon sérieux et ma plaisanterie, mes erreurs et mes actes délibérés; tout cela vient de moi.",
+          "repetitions": 1,
+          "source": "Sahih Al‑Bukhari & Muslim",
+          "reference": "Invocation globale pour le pardon",
+          "benefit": "Couvre tous types de péchés, volontaires et involontaires.",
+          "reward": "Effacement large des fautes"
+        },
+        {
+          "id": "allahumma_baid_bayni_khataiya",
+          "arabic": "اللَّهُمَّ بَاعِدْ بَيْنِي وَبَيْنَ خَطَايَايَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ، اللَّهُمَّ نَقِّنِي مِنْ خَطَايَايَ كَمَا يُنَقَّى الثَّوْبُ الْأَبْيَضُ مِنَ الدَّنَسِ، اللَّهُمَّ اغْسِلْنِي مِنْ خَطَايَايَ بِالثَّلْجِ وَالْمَاءِ وَالْبَرَدِ",
+          "transliteration": "Allāhumma bāʿid baynī wa bayna khaṭāyāya kamā bāʿadta bayna al‑mashriqi wal‑maghrib, Allāhumma naqqinī min khaṭāyāya kamā yunqā ath‑thawbu al‑abyadhu mina ad‑danasi, Allāhumma ighsilnī min khaṭāyāya bith‑thalji wal‑māʾi wal‑barad",
+          "translation": "Ô Allah, éloigne‑moi de mes péchés comme Tu as éloigné l’Orient de l’Occident. Ô Allah, purifie‑moi de mes péchés comme on purifie le vêtement blanc de la saleté. Ô Allah, lave‑moi de mes péchés avec la neige, l’eau et la grêle.",
+          "repetitions": 1,
+          "source": "Sahih Al‑Bukhari & Muslim",
+          "reference": "Invocation d’ouverture de la prière",
+          "benefit": "Purification profonde et éloignement des péchés.",
+          "reward": "Pureté du cœur et des actes"
+        },
+        {
+          "id": "allahumma_innaka_afuw",
+          "arabic": "اللَّهُمَّ إِنَّكَ عَفُوٌّ كَرِيمٌ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
+          "transliteration": "Allāhumma innaka ʿafuwwun karīmun tuḥibbu al‑ʿafwa faʿfu ʿannī",
+          "translation": "Ô Allah, Tu es Pardonneur, Généreux; Tu aimes pardonner; pardonne‑moi.",
+          "repetitions": 1,
+          "source": "Sunan At‑Tirmidhi",
+          "reference": "Recommandé particulièrement durant les dix dernières nuits (Laylatul Qadr)",
+          "benefit": "Pardon complet et miséricorde abondante.",
+          "reward": "Effacement des péchés et élévation"
+        }
+      ]
+    },
+    {
+      "id": "salawat",
+      "title": "Prières sur le Prophète ﷺ (Salawât)",
+      "subtitle": "Formules authentiques de salât sur le Prophète",
+      "items": [
+        {
+          "id": "salat_ibrahimiyya",
+          "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ. اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ",
+          "transliteration": "Allāhumma ṣalli ʿalā Muḥammad wa ʿalā āli Muḥammad, kamā ṣallayta ʿalā Ibrāhīm wa ʿalā āli Ibrāhīm, innaka Ḥamīdun Majīd. Allāhumma bārik ʿalā Muḥammad wa ʿalā āli Muḥammad, kamā bārakta ʿalā Ibrāhīm wa ʿalā āli Ibrāhīm, innaka Ḥamīdun Majīd",
+          "translation": "Ô Allah, prie sur Muhammad et sur la famille de Muhammad, comme Tu as prié sur Ibrahim et sur la famille d’Ibrahim; Tu es Digne de louanges, Glorieux. Ô Allah, bénis Muhammad et la famille de Muhammad, comme Tu as béni Ibrahim et la famille d’Ibrahim; Tu es Digne de louanges, Glorieux.",
+          "repetitions": 1,
+          "source": "Sahih Al‑Bukhari & Muslim",
+          "reference": "Salât Ibrâhîmiyya — dans la prière (après le Tashahhud)",
+          "benefit": "Formule enseignée dans la prière; cause d’élévation et de bénédictions.",
+          "reward": "Multiplication des hassanât et proximité du Prophète ﷺ"
+        },
+        {
+          "id": "salat_on_family_offspring",
+          "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَأَزْوَاجِهِ وَذُرِّيَّتِهِ، كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ، وَبَارِكْ عَلَى مُحَمَّدٍ وَأَزْوَاجِهِ وَذُرِّيَّتِهِ، كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ",
+          "transliteration": "Allāhumma ṣalli ʿalā Muḥammad wa azwājihi wa dhurriyyatih, kamā ṣallayta ʿalā āli Ibrāhīm, wa bārik ʿalā Muḥammad wa azwājihi wa dhurriyyatih, kamā bārakta ʿalā āli Ibrāhīm, innaka Ḥamīdun Majīd",
+          "translation": "Ô Allah, prie sur Muhammad, sur ses épouses et sa descendance comme Tu as prié sur la famille d’Ibrahim; et bénis Muhammad, ses épouses et sa descendance comme Tu as béni la famille d’Ibrahim; Tu es Digne de louanges, Glorieux.",
+          "repetitions": 1,
+          "source": "Sahih Al‑Bukhari",
+          "reference": "Variante authentique des salawât",
+          "benefit": "Bénédictions étendues à la famille et la descendance du Prophète ﷺ.",
+          "reward": "Bénédiction et amour du Prophète ﷺ"
+        },
+        {
+          "id": "short_salat",
+          "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ",
+          "transliteration": "Allāhumma ṣalli ʿalā Muḥammad",
+          "translation": "Ô Allah, prie sur Muhammad.",
+          "repetitions": 10,
+          "source": "Hadiths multiples sur le mérite d’abondantes salawât",
+          "reference": "En tout temps; particulièrement le vendredi",
+          "benefit": "Chaque salât sur le Prophète entraîne dix miséricordes d’Allah.",
+          "reward": "10 miséricordes par salât (Muslim)"
+        }
+      ]
+    }
+  ]
+}

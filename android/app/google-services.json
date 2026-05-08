@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "287841445177",
+    "project_id": "vb216y6zl5b5b5yrmy6qpaylmmpgjf",
+    "storage_bucket": "vb216y6zl5b5b5yrmy6qpaylmmpgjf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287841445177:android:143e2ea6c1f6d9e5b4b4e8",
+        "android_client_info": {
+          "package_name": "com.sajda.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287841445177-rbacdfmlq45ll4vq07tujb73l1359jq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBB68Sc0sxyp8VrdjHwaHc5lmFuV12-Nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287841445177-rbacdfmlq45ll4vq07tujb73l1359jq1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "287841445177-e7dnmg4mug88c89j5i6s1eq2jfr0h4d6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.CounterApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287841445177:android:99ad165eceb84d59b4b4e8",
+        "android_client_info": {
+          "package_name": "com.sajda.ap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287841445177-rbacdfmlq45ll4vq07tujb73l1359jq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBB68Sc0sxyp8VrdjHwaHc5lmFuV12-Nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287841445177-rbacdfmlq45ll4vq07tujb73l1359jq1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "287841445177-e7dnmg4mug88c89j5i6s1eq2jfr0h4d6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.CounterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
